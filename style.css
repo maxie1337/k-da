@@ -376,14 +376,14 @@
     height: 525px;
     width: 550px;
     border-radius: 20px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/bilder/clean1.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('clean1.jpg');
     background-size: cover;
     position: relative;
     color: #fff
 }
 
 .servicescard:nth-child(2) {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/bilder/clean2.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('clean2.jpg');
 }
 
 .services h2 {
